@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@astrojs/lit": "^4.3.0",
-    "@astrojs/vercel": "^10.0.8",
+    "@astrojs/vercel": "^11.0.7",
     "@fontsource/jetbrains-mono": "^5.2.8",
     "@fontsource/lexend": "^5.2.11",
     "@google/genai": "^2.15.0",
